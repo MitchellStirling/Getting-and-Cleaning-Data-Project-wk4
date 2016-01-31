@@ -39,6 +39,6 @@ run_analysis.R file will install the dependencies automatically. It depends on r
 ------------------------
 
 
-1 - Download the data source and put into a folder on your local drive. Have a folder called HAR_dataset_UCI
-2 - Put run_analysis.R in the parent folder of HAR_dataset_UCI, then set it as working directory.
+1 - Download the data source and put into a folder on your local drive. The extracted folder will be called UCI HAR Dataset
+2 - Put run_analysis.R in the parent folder of UCI HAR Dataset, then set it as working directory.
 3 - Run source("run_analysis.R"), then it will generate a new file tiny_data.txt in your working directory.
